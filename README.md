@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
-This is the readme.
+This is the readme. Now more changes from feature branch.
 
 ## Purpose
 
