@@ -14,8 +14,7 @@ And now we add some more
 
 ## How to contribute
 
-Dont.
-
+Another line
 Sample website with plenty of files for demos
 
 ## copyright
