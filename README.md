@@ -15,3 +15,7 @@ And now we add some more
 Dont.
 
 Sample website with plenty of files for demos
+
+## copyright
+
+notice. 
