@@ -19,4 +19,4 @@ Sample website with plenty of files for demos
 
 ## copyright
 
-notice. 
+notice. all rights reserved 
